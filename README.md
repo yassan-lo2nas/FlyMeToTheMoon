@@ -1,5 +1,5 @@
 # FlyMeToTheMoon
-大学１年生の春学期 C言語（HandyGraphics使用）での自由制作にて作成したゲーム。
+大学１年生の春学期 C言語（HandyGraphics使用）の授業での自由制作にて作成したゲーム。
 
 ## 起動の仕方
 1, HandyGraphics( http://www7a.biglobe.ne.jp/~ogihara/Hg/hg-jpn.html )をインストール.
